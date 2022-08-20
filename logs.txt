@@ -1,0 +1,39 @@
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: GUDANG PEKOB
+└ Username: @gudangpekobot
+——
+[WARNING] - bot - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[WARNING] - bot - Bot tidak dapat Mengambil link invite dari FORCE_SUB_CHANNEL!
+[WARNING] - bot - Pastikan @gudangpekobot adalah admin di Channel Tersebut, Chat ID F-Subs Channel Saat Ini: -1001637095550
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: GUDANG PEKOB
+└ Username: @gudangpekobot
+——
+[WARNING] - bot - Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+[WARNING] - bot - Bot tidak dapat Mengambil link invite dari FORCE_SUB_CHANNEL!
+[WARNING] - bot - Pastikan @gudangpekobot adalah admin di Channel Tersebut, Chat ID F-Subs Channel Saat Ini: -1001637095550
+[INFO] - bot - Bot Berhenti. Gabung Group https://t.me/SharingUserbot untuk Bantuan
+[INFO] - bot - TG_BOT_TOKEN detected!
+┌ First Name: GUDANG PEKOB
+└ Username: @gudangpekobot
+——
+[INFO] - bot - FORCE_SUB_CHANNEL detected!
+┌ Title: CLARA 70++
+└ Chat ID: -1001637095550
+——
+[INFO] - bot - FORCE_SUB_GROUP detected!
+┌ Title: GUDANG
+└ Chat ID: -1001522596415
+——
+[INFO] - bot - CHANNEL_ID Database detected!
+┌ Title: BACKUP
+└ Chat ID: -1001599285455
+——
+[INFO] - bot - [🔥 BERHASIL DIAKTIFKAN! 🔥]
+
+BOT Dibuat oleh @gudangpeko
+Jika @gudangpeko Membutuhkan Bantuan, Silahkan Tanyakan di Grup https://t.me/SharingUserbot
+[WARNING] - pyrogram.session.session - [Bot] Waiting for 5 seconds before continuing (required by "messages.EditMessage")
+[WARNING] - pyrogram.session.session - [Bot] Waiting for 4 seconds before continuing (required by "messages.SendMedia")
+[WARNING] - pyrogram.session.session - [Bot] Waiting for 3 seconds before continuing (required by "messages.SendMedia")
